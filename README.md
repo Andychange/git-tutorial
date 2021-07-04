@@ -1,2 +1,2 @@
 # git-tutorial
-git &amp; github 教程
+git 和 github 相关中文教程
